@@ -1,5 +1,5 @@
 1. Introduction<br />
-This is a python script for adding caption to video. It calls whisper to get caption. It's tested under ubuntu 20.04.
+This is a python script for adding subtitle to video. It calls whisper to get subtitle. It's tested under ubuntu 20.04.
 
 2. Prerequisites<br />
 ffmpeg<br />
